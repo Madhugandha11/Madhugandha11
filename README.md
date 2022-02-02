@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madhugandha
-- 👀 I’m interested in space science, artificial intelligence and machine learning.
+- 👀 I’m interested in social computing, Data Science and Machine learning.
 - 🌱 I’m currently learning Information Technology.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 You can mail me at madhugandhasingh@gmail.com
